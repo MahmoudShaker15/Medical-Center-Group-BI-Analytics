@@ -1,0 +1,16 @@
+DoctorID,DoctorName,Specialty,HospitalID,YearsOfExperience
+DR-001,Dr. James Whitfield,Cardiology,H-001,14
+DR-002,Dr. Clara Sutton,Neurology,H-002,14
+DR-003,Dr. Oliver Marsh,Orthopedics,H-003,8
+DR-004,Dr. Patricia Holt,Pediatrics,H-001,21
+DR-005,Dr. Gregory Vance,Oncology,H-002,7
+DR-006,Dr. Laura Finch,General Medicine,H-003,9
+DR-007,Dr. Edward Blaine,Emergency,H-001,9
+DR-008,Dr. Sandra Croft,Cardiology,H-002,6
+DR-009,Dr. Thomas Wren,Neurology,H-003,26
+DR-010,Dr. Helen Ashby,Orthopedics,H-001,4
+DR-011,Dr. Victor Lund,Pediatrics,H-002,10
+DR-012,Dr. Diana Frost,Oncology,H-003,25
+DR-013,Dr. Walter Crane,General Medicine,H-001,14
+DR-014,Dr. Norma Steele,Emergency,H-002,18
+DR-015,Dr. Philip Graves,Cardiology,H-003,23
