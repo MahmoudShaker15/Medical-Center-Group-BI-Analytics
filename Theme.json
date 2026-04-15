@@ -1,0 +1,100 @@
+{
+    "name": "Midnight Medical Analytics",
+    "dataColors": [
+        "#7085FD",
+        "#ED553B",
+        "#F6D55C",
+        "#173F5F",
+        "#3CAEA3",
+        "#20639B",
+        "#8899A6",
+        "#9C27B0"
+    ],
+    "background": "#232323",
+    "foreground": "#FFFFFF",
+    "tableAccent": "#7085FD",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "background": [
+                    {
+                        "show": true,
+                        "color": { "solid": { "color": "#2C2C2C" } },
+                        "transparency": 0
+                    }
+                ],
+                "border": [
+                    {
+                        "show": true,
+                        "color": { "solid": { "color": "#3E3E3E" } },
+                        "radius": 8
+                    }
+                ],
+                "visualTooltip": [
+                    {
+                        "type": "Default",
+                        "titleFontColor": { "solid": { "color": "#FFFFFF" } },
+                        "valueFontColor": { "solid": { "color": "#FFFFFF" } },
+                        "background": { "solid": { "color": "#1A1A1A" } }
+                    }
+                ],
+                "outspace": [
+                    {
+                        "color": { "solid": { "color": "#232323" } }
+                    }
+                ]
+            }
+        },
+        "page": {
+            "*": {
+                "background": [
+                    {
+                        "color": { "solid": { "color": "#232323" } },
+                        "transparency": 0
+                    }
+                ]
+            }
+        },
+        "chartTitle": {
+            "*": {
+                "show": [{ "show": true }],
+                "fontColor": [{ "solid": { "color": "#FFFFFF" } }],
+                "fontSize": [{ "value": 12 }],
+                "fontFamily": [{ "value": "Segoe UI Semibold" }]
+            }
+        },
+        "categoryAxis": {
+            "*": {
+                "show": [{ "show": true }],
+                "labelColor": [{ "solid": { "color": "#B3B3B3" } }],
+                "fontSize": [{ "value": 10 }]
+            }
+        },
+        "valueAxis": {
+            "*": {
+                "show": [{ "show": true }],
+                "labelColor": [{ "solid": { "color": "#B3B3B3" } }],
+                "fontSize": [{ "value": 10 }],
+                "gridlineShow": [{ "show": true }],
+                "gridlineColor": [{ "solid": { "color": "#3E3E3E" } }]
+            }
+        },
+        "legend": {
+            "*": {
+                "show": [{ "show": true }],
+                "labelColor": [{ "solid": { "color": "#FFFFFF" } }],
+                "fontSize": [{ "value": 10 }]
+            }
+        },
+        "card": {
+            "*": {
+                "calloutValue": [
+                    {
+                        "color": { "solid": { "color": "#00C853" } },
+                        "fontSize": [{ "value": 32 }]
+                    }
+                ]
+            }
+        }
+    }
+}
