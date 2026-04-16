@@ -1,4 +1,4 @@
-# Medical Center BI Solution
+# Medical Center BI Solution 🏥
 
 A high-fidelity Business Intelligence solution developed to transform raw operational data from a multi-specialty medical group into actionable insights. This project focuses on financial health monitoring, departmental efficiency, and patient satisfaction benchmarking.
 
@@ -46,7 +46,7 @@ Star schema with `Visits` as the central fact table connected to four dimension 
 | Hospitals | Dimension |
 | Date | Dimension (DAX) |
 
-![alt text](<Star Schema.png>)
+<img width="955" height="617" alt="Star Schema" src="https://github.com/user-attachments/assets/1a385a5d-1780-4140-9c4a-5e8edbaf6b09" />
 
 ## Row-Level Security
 
@@ -66,7 +66,7 @@ Each hospital manager is restricted to their assigned hospital's data using:
 
 - Dynamic Modeling: Implemented Field Parameters to allow stakeholders to swap chart dimensions and metrics dynamically.
 
-## Key Findings
+## Key Findings & Dashboards
 
 - **Top hospital by revenue:** Eastfield Care Hospital
 - **Top specialty by revenue:** Cardiology
@@ -75,3 +75,14 @@ Each hospital manager is restricted to their assigned hospital's data using:
 - **Highest patient satisfaction by specialty:** Orthopedics
 - **Peak visit month:** August (79 visits)
 
+### Financial Performance
+
+<img width="1996" height="1119" alt="Financial Performance" src="https://github.com/user-attachments/assets/a9a30ae2-0a8c-408a-9d2a-4b1ad8251109" />
+
+### Doctors & Patients Analysis (Doctoors View)
+
+<img width="1985" height="1113" alt="Doctors   Patients Analysis (Doctors View)" src="https://github.com/user-attachments/assets/12b87aab-1f76-4a09-8f29-c13d49e669ba" />
+
+### Doctors & Patients Analysis (Patients View)
+
+<img width="1986" height="1113" alt="Doctors   Patients Analysis (Patients View)" src="https://github.com/user-attachments/assets/5a5a0c75-fa6d-49aa-983a-917cef82cf35" />
