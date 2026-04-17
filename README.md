@@ -81,7 +81,7 @@ Each hospital manager is restricted to their assigned hospital's data using:
 
 ### Doctors & Patients Analysis (Doctoors View)
 
-<img width="1985" height="1113" alt="Doctors   Patients Analysis (Doctors View)" src="https://github.com/user-attachments/assets/12b87aab-1f76-4a09-8f29-c13d49e669ba" />
+<img width="1987" height="1114" alt="Doctors   Patients Analysis (Doctors View)" src="https://github.com/user-attachments/assets/c97e26d1-dbbf-4d42-b37f-24248b0ce42c" />
 
 ### Doctors & Patients Analysis (Patients View)
 
